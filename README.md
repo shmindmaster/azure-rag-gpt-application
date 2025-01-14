@@ -1,27 +1,3 @@
----
-page_type: sample
-languages:
-- azdeveloper
-- python
-- bash
-- bicep
-- prompty
-products:
-- azure
-- azure-openai
-- azure-cognitive-search
-- azure-cosmos-db
-urlFragment: contoso-chat
-name: Contoso Chat - Retail RAG Copilot with Azure AI Studio and Prompty (Python Implementation)
-description: Build, evaluate, and deploy, a RAG-based retail copilot that responds to customer questions with responses grounded in the retailer's product and customer data.
----
-<!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
-
-
-# Contoso Chat: Retail RAG Copilot with Azure AI Studio and Prompty
-
-[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&machine=basicLinux32gb&repo=725257907&ref=main&devcontainer_path=.devcontainer%2Fdevcontainer.json&geo=UsEast)
-[![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/azure-samples/contoso-chat)
 
 ## Table of Contents
 
